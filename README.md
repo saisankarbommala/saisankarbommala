@@ -1,14 +1,23 @@
-# 👋 Hi, I'm Saisankar Bommala
+# 👋 Hey, I'm Saisankar Bommala
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Developer+%F0%9F%A4%96;Full+Stack+Engineer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%93%8A;Building+Impactful+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%93%8A;Building+Real-World+AI+Projects+%F0%9F%9A%80" />
 </p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saisankarbommala&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/saisankarbommala?label=Followers&style=social" />
 </p>
+
+---
+
+## 🧠 About Me
+
+💡 Passionate about **AI, Automation & Full Stack Development**
+🚀 Building scalable systems using **Python, ML & Web Technologies**
+🎯 Focused on solving real-world problems with intelligent solutions
 
 ---
 
@@ -20,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saisankarbommala&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -33,14 +42,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saisankarbommala&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## 🐍 Contribution Graph
 
 <p align="center">
@@ -49,27 +50,49 @@
 
 ---
 
-## 🔥 Random Dev Quote
+## 🚀 Featured Projects
+
+### 🤖 Face Recognition Attendance System
+
+🔹 AI-powered system with anti-spoofing & real-time detection
+🔹 Built using Python, OpenCV & Deep Learning
+
+---
+
+### 🧠 AI Smart Assistant
+
+🔹 Voice + NLP + Image Processing system
+🔹 Handles commands, queries & automation
+
+---
+
+### ⚙️ Automation AI Bot (RPA)
+
+🔹 Automates repetitive workflows
+🔹 Increases productivity & efficiency
+
+---
+
+### 🛒 Grocer Mart Website
+
+🔹 Full-stack e-commerce platform
+🔹 Built using modern web technologies
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saisankarbommala&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Dev Quote
 
-✨ **Face Recognition Attendance System**
-→ AI-based system with anti-spoofing & real-time detection
-
-✨ **AI Smart Assistant**
-→ Voice + NLP + Image Processing
-
-✨ **Automation AI Bot (RPA)**
-→ Automates repetitive workflows
-
-✨ **Grocer Mart Website**
-→ Full-stack responsive e-commerce
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
@@ -88,8 +111,8 @@
 
 ## ⚡ Fun Fact
 
-💡 I turn ideas into real-world AI solutions 🚀
+🚀 I love building AI systems that actually solve real-world problems
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+⭐ *“Consistency beats talent. Keep building.”*
