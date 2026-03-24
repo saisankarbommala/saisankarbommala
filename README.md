@@ -1,12 +1,20 @@
 <!-- 🌊 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:F778BA&height=150&section=header&text=SAISANKAR%20BOMMALA&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:F778BA&height=150&section=header&text=SAISANKAR%20BOMMALA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">👋 Hey, I'm Sai Sankar Bommala</h1>
-<h3 align="center">🚀 Aspiring SDE | AI/ML | Full Stack | DevOps | Cloud Engineer</h3>
 
----
+
+<h1 align="center">👋 Hey, I'm Sai Sankar Bommala</h1>
+<!-- 🔥 GLOW LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=2"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer+(SDE);AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;DevOps+%7C+Cloud+Engineer;Building+Scalable+%26+Real-World+Systems" />
+</p>
+
+
 
 <!-- 🔥 BADGES -->
 <p align="center">
@@ -14,7 +22,9 @@
   <img src="https://img.shields.io/github/followers/saisankarbommala?style=for-the-badge&color=F778BA"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=2"/>
+</p>
 # 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F6FEB&height=60&section=header&text=🧠%20ABOUT%20ME&fontSize=30&fontColor=ffffff"/>
@@ -63,7 +73,9 @@
 </td>
 </tr>
 </table>
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=2"/>
+</p>
 
 #
 <p align="center">
@@ -95,8 +107,9 @@
   <img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge&logo=powerbi"/>
 </p>
 
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=2"/>
+</p>
 
 #     
 <p align="center">
@@ -119,7 +132,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=2"/>
+</p>
 
 #     
 <p align="center">
@@ -130,7 +145,9 @@
   <img src="https://raw.githubusercontent.com/saisankarbommala/saisankarbommala/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=2"/>
+</p>
 
 
 #    
@@ -147,7 +164,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=2"/>
+</p>
 
 #   
 <p align="center">
