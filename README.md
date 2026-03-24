@@ -39,19 +39,19 @@ My interests span across **Software Development, Artificial Intelligence, Backen
 ## 👨‍💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
 ## 🌐 Development (Full Stack & APIs)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,fastapi" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,fastapi,restapi,api" />
 </p>
 
 ## ⚙️ DevOps, Cloud & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux,vscode,postman,render,netlify,powerbi" />
 </p>
 
 ---
