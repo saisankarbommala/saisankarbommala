@@ -7,9 +7,7 @@
 
 <h1 align="center">👋 Hey, I'm Sai Sankar Bommala</h1>
 <!-- 🔥 GLOW LINE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=2"/>
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer+(SDE);AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;DevOps+%7C+Cloud+Engineer;Building+Scalable+%26+Real-World+Systems" />
 </p>
@@ -22,9 +20,7 @@
   <img src="https://img.shields.io/github/followers/saisankarbommala?style=for-the-badge&color=F778BA"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=2"/>
-</p>
+
 # 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F6FEB&height=60&section=header&text=🧠%20ABOUT%20ME&fontSize=30&fontColor=ffffff"/>
@@ -116,21 +112,31 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F6FEB&height=60&section=header&text=📊%20GitHub%20Analytics&fontSize=30&fontColor=ffffff"/>
 </p>
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=saisankarbommala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&text_color=C9D1D9&border_radius=15" height="180"/>
+### 🚀 📈 Overall Performance
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saisankarbommala&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F778BA&currStreakLabel=58A6FF&border_radius=15" height="180"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saisankarbommala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saisankarbommala&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F778BA&currStreakLabel=58A6FF"/>
+</p>
 
-</div>
+---
 
-<br/>
+### 🔥 ⚡ Contribution Insights
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saisankarbommala&theme=tokyonight"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisankarbommala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" height="160"/>
+---
 
-</div>
+### 🧠 💻 Most Used Languages
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisankarbommala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=2"/>
