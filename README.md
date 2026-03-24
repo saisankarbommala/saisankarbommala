@@ -1,10 +1,8 @@
-# 👋 Hey, I'm Saisankar Bommala
+# 👋 Hey, I'm **Saisankar Bommala**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%93%8A;Building+Real-World+AI+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=950&lines=Software+Engineer+(SDE)+%F0%9F%92%BB;AI+%7C+ML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;DevOps+%7C+Cloud+Learner+%E2%98%81%EF%B8%8F;Building+Scalable+Real-World+Systems+%F0%9F%94%A5" />
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saisankarbommala&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -13,23 +11,52 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-💡 Passionate about **AI, Automation & Full Stack Development**
-🚀 Building scalable systems using **Python, ML & Web Technologies**
-🎯 Focused on solving real-world problems with intelligent solutions
+🚀 **Aspiring Software Engineer (SDE) | AI/ML Developer | Full Stack Developer**
+
+I am a passionate developer focused on building **real-world, scalable, and intelligent applications**.
+My interests span across **Software Development, Artificial Intelligence, Backend Systems, DevOps, Cloud, and Data Analytics**.
+
+💡 I enjoy transforming ideas into practical solutions by combining:
+
+* **Strong problem-solving approach**
+* **Clean and efficient code practices**
+* **Modern technologies and tools**
+
+🌱 Currently learning:
+
+* Data Structures & Algorithms
+* System Design fundamentals
+* Cloud & DevOps practices
+
+🎯 Goal: To become a **versatile engineer capable of building end-to-end scalable systems**
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
+
+## 👨‍💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,nodejs,express,mongodb,tensorflow,docker,kubernetes,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+</p>
+
+## 🌐 Development (Full Stack & APIs)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,fastapi" />
+</p>
+
+## ⚙️ DevOps, Cloud & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saisankarbommala&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -42,45 +69,15 @@
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/saisankarbommala/saisankarbommala/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/saisankarbommala/saisankarbommala/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Face Recognition Attendance System
-
-🔹 AI-powered system with anti-spoofing & real-time detection
-🔹 Built using Python, OpenCV & Deep Learning
-
----
-
-### 🧠 AI Smart Assistant
-
-🔹 Voice + NLP + Image Processing system
-🔹 Handles commands, queries & automation
-
----
-
-### ⚙️ Automation AI Bot (RPA)
-
-🔹 Automates repetitive workflows
-🔹 Increases productivity & efficiency
-
----
-
-### 🛒 Grocer Mart Website
-
-🔹 Full-stack e-commerce platform
-🔹 Built using modern web technologies
-
----
-
-## 🏆 Achievements
+# 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saisankarbommala&theme=tokyonight&no-frame=true&row=1&column=7" />
@@ -88,18 +85,38 @@
 
 ---
 
-## 🔥 Dev Quote
+# 🚀 Featured Projects
+
+### 🤖 Face Recognition Attendance System
+
+🔹 AI-based system with real-time detection & anti-spoofing
+
+### 🧠 AI Smart Assistant
+
+🔹 Voice + NLP + automation-based intelligent assistant
+
+### ⚙️ Automation AI Bot (RPA)
+
+🔹 Automates repetitive workflows using Python
+
+### 🛒 Grocer Mart Website
+
+🔹 Full-stack responsive e-commerce application
+
+---
+
+# 🔥 Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saisankar-bommala-031399327/">
+  <a href="https://www.linkedin.com/in/saisankar-bommala-031399327/https://www.linkedin.com/in/saisankar-bommala-031399327/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/saisankarbommala">
@@ -109,10 +126,10 @@
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
-🚀 I love building AI systems that actually solve real-world problems
+🚀 I enjoy building projects that combine **AI + Software Engineering + Automation**
 
 ---
 
-⭐ *“Consistency beats talent. Keep building.”*
+⭐ *“Keep learning, keep building, keep improving.”*
