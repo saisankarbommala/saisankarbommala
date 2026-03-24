@@ -168,12 +168,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=6"/>
 </p>
----
+
 <h2 align="center">⭐ “Keep learning, keep building, keep improving.</h2>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=6"/>
-</p>
----
+
 
 <!-- 🌊 FOOTER -->
 <p align="center">
