@@ -36,22 +36,36 @@ My interests span across **Software Development, Artificial Intelligence, Backen
 
 # 🚀 Tech Stack
 
-## 👨‍💻 Languages
+## 👨‍💻 Languages  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
-## 🌐 Development (Full Stack & APIs)
+---
+
+## 🌐 Development (Full Stack & APIs)  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,fastapi,restapi,api" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,fastapi" />
 </p>
 
-## ⚙️ DevOps, Cloud & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-Backend-blue?style=for-the-badge&logo=fastapi" />
+</p>
+
+---
+
+## ⚙️ DevOps, Cloud & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux,vscode,postman,render,netlify,powerbi" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,git,github,linux,vscode,postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-Cloud-black?style=for-the-badge&logo=render" />
+  <img src="https://img.shields.io/badge/Netlify-Hosting-00C7B7?style=for-the-badge&logo=netlify" />
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge&logo=powerbi" />
 </p>
 
 ---
