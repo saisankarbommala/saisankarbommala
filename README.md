@@ -24,12 +24,21 @@
 
 <!-- ================== TECH STACK ================== -->
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
+### 👨‍💻 Languages
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,rest api,docker,cloud computing,git,github" />
+### 🌐 Web & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,api,restapi" />
+</p>
 
+### ⚙️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,cicd,azure,linux,git,github" />
 </p>
 
 ---
