@@ -2,25 +2,29 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows you to run it manually
 
 permissions:
-  contents: write   # ✅ THIS FIXES YOUR ERROR
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Generate the snake files
       - uses: Platane/snk@v3
         with:
           github_user_name: saisankarbommala
-          outputs: 
-           dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Step 2: Push the files to the 'output' branch
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-          github_token: ${{ secrets.GH_PAT }}  # ✅ IMPORTANT
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
