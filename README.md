@@ -72,10 +72,6 @@ My interests span across **Software Development, Artificial Intelligence, Backen
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=60&section=header"/>
-</p>
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=saisankarbommala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&text_color=C9D1D9&border_radius=15" height="180"/>
@@ -94,10 +90,7 @@ My interests span across **Software Development, Artificial Intelligence, Backen
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=6"/>
-</p>
----
+
 
 # 🐍 Contribution Graph
 
