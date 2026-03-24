@@ -1,9 +1,9 @@
 <!-- 🌊 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:F778BA&height=150&section=header&text=Saisankar%20Bommala&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:F778BA&height=150&section=header&text=SAISANKAR%20BOMMALA&fontSize=35&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">👋 Hey, I'm Saisankar Bommala</h1>
+<h1 align="center">👋 Hey, I'm Sai Sankar Bommala</h1>
 <h3 align="center">🚀 Aspiring SDE | AI/ML | Full Stack | DevOps | Cloud Engineer</h3>
 
 ---
@@ -109,13 +109,27 @@
 
 ---
 
-# 📫 Connect With Me  
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saisankar-bommala-031399327/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/saisankar-bommala-031399327/https://www.linkedin.com/in/saisankar-bommala-031399327/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/saisankarbommala">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+---
+
+# ⚡ Fun Fact
+
+🚀 I enjoy building projects that combine *AI + Software Engineering + Automation*
+
+---
+
+⭐ “Keep learning, keep building, keep improving.”
 
 ---
 
