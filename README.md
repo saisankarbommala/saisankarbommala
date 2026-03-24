@@ -162,15 +162,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F6FEB&height=60&section=header&text=⚡%20Fun%20Fact&fontSize=30&fontColor=ffffff"/>
 </p>
-
+<p align="center">
 🚀 I enjoy building projects that combine *AI + Software Engineering + Automation*
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=6"/>
 </p>
 ---
 <h2 align="center">⭐ “Keep learning, keep building, keep improving.</h2>
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=6"/>
+</p>
 ---
 
 <!-- 🌊 FOOTER -->
