@@ -97,10 +97,6 @@
 
 ---
 
-<!-- ✨ PREMIUM DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=50"/>
-</p>
 
 #     
 <p align="center">
@@ -124,11 +120,6 @@
 </div>
 
 ---
-
-<!-- 🔥 GLOW LINE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=6"/>
-</p>
 
 #     
 <p align="center">
