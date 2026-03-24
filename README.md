@@ -92,12 +92,11 @@
 
 <!-- ================== SNAKE ================== -->
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Graph  
 
 <p align="center">
   <img src="https://github.com/saisankarbommala/saisankarbommala/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 <!-- ================== CONNECT ================== -->
