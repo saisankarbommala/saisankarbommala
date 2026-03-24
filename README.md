@@ -17,6 +17,10 @@
 ---
 # 🧠 About Me  
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F6FEB&height=120&section=header&text=ABOUT%20ME&fontSize=35&fontColor=ffffff"/>
+</p>
+
 <table>
 <tr>
 <td width="50%">
@@ -24,19 +28,23 @@
 ### 🚀 Who Am I  
 
 💡 Passionate developer building  
-**scalable, intelligent, real-world applications**
+**scalable, intelligent & real-world applications**
 
-🎯 Focused on:
-- 💻 Software Development (SDE)
+---
+
+### 🎯 Core Domains  
+- 💻 Software Development (SDE)  
 - 🤖 AI / Machine Learning  
 - 🌐 Full Stack Development  
 - ☁️ Cloud & DevOps  
 - 📊 Data Analytics  
 
-⚡ I enjoy:
-- Solving complex problems  
-- Writing clean & optimized code  
-- Working with modern technologies  
+---
+
+### ⚡ What I Bring  
+- 🧠 Strong problem-solving mindset  
+- 🧹 Clean & optimized coding practices  
+- 🚀 Hands-on with modern technologies  
 
 </td>
 
@@ -44,22 +52,31 @@
 
 ### 📈 Growth & Vision  
 
-📚 Currently Learning:
+📚 **Currently Learning**  
 - 📘 Data Structures & Algorithms  
 - 🏗️ System Design  
 - ☁️ Advanced Cloud & DevOps  
 
-🔥 Strengths:
-- Strong problem-solving mindset  
-- Clean coding practices  
-- Hands-on with real projects  
+---
 
-🎯 Goal:  
-> Become a **versatile engineer** capable of building end-to-end scalable systems  
+### 🔥 Developer Mindset  
+- ⚙️ Building real-world scalable systems  
+- 🔍 Continuous learning & improvement  
+- 🧩 Breaking complex problems into solutions  
+
+---
+
+### 🎯 Goal  
+> Become a **high-impact engineer** capable of building  
+> end-to-end scalable & intelligent systems  
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=40"/>
+</p>
 ---
 
 # 🛠 Tech Stack  
