@@ -65,7 +65,10 @@
 </table>
 ---
 
-# 🛠 Tech Stack  
+#
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F6FEB&height=60&section=header&text=🛠%20Tech%20Stack&fontSize=30&fontColor=ffffff"/>
+</p>
 
 ## 👨‍💻 Languages  
 <p align="center">
@@ -99,7 +102,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=50"/>
 </p>
 
-# 📊 GitHub Analytics  
+#     
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F6FEB&height=60&section=header&text=📊%20GitHub%20Analytics&fontSize=30&fontColor=ffffff"/>
+</p>
 
 <div align="center">
 
@@ -124,7 +130,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:F778BA,100:58A6FF&height=6"/>
 </p>
 
-# 🐍 Contribution Graph  
+#     
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F6FEB&height=60&section=header&text=🐍%20Contribution%20Graph&fontSize=30&fontColor=ffffff"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/saisankarbommala/saisankarbommala/output/github-contribution-grid-snake-dark.svg"/>
@@ -133,7 +142,10 @@
 ---
 
 
-# 🌐 Connect With Me
+#    
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F6FEB&height=60&section=header&text=🌐%20Connect%20With%20Me&fontSize=30&fontColor=ffffff"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saisankar-bommala-031399327/https://www.linkedin.com/in/saisankar-bommala-031399327/">
@@ -146,7 +158,10 @@
 
 ---
 
-# ⚡ Fun Fact
+#   
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F6FEB&height=60&section=header&text=⚡%20Fun%20Fact&fontSize=30&fontColor=ffffff"/>
+</p>
 
 🚀 I enjoy building projects that combine *AI + Software Engineering + Automation*
 
