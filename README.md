@@ -15,9 +15,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=40"/>
-</p>
 # 🧠 About Me  
 
 <table>
