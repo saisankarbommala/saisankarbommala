@@ -17,7 +17,7 @@
 ---
 # 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F6FEB&height=80&section=header&text=ABOUT%20ME&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F6FEB&height=80&section=header&text=🧠 ABOUT%20ME&fontSize=35&fontColor=ffffff"/>
 </p>
 
 <table>
