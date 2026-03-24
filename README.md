@@ -38,7 +38,7 @@
 
 ### ⚙️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,cicd,azure,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,linux,git,github" />
 </p>
 
 ---
