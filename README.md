@@ -1,6 +1,6 @@
 <!-- 🌊 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:F778BA&height=160&section=header&text=SAISANKAR%20BOMMALA&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:F778BA&height=120&section=header&text=SAISANKAR%20BOMMALA&fontSize=30&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">👋 Hey, I'm Sai Sankar Bommala</h1>
