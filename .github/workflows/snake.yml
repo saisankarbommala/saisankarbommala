@@ -22,4 +22,4 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          github_token: ${{ secrets.GITHUB_TOKEN }}   # ✅ IMPORTANT
+          github_token: ${{ secrets.GH_PAT }}  # ✅ IMPORTANT
