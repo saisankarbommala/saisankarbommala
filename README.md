@@ -42,10 +42,6 @@
 - ☁️ Cloud & DevOps  
 - 📊 Data Analytics  
 
-⚡ I enjoy:
-- Solving complex problems  
-- Writing clean & optimized code  
-- Working with modern technologies  
 
 </td>
 
@@ -58,13 +54,9 @@
 - 🏗️ System Design  
 - ☁️ Advanced Cloud & DevOps  
 
-🔥 Strengths:
-- Strong problem-solving mindset  
-- Clean coding practices  
-- Hands-on with real projects  
-
 🎯 Goal:  
 > Become a **versatile engineer** capable of building end-to-end scalable systems  
+
 
 </td>
 </tr>
@@ -94,7 +86,7 @@
 
 ## ⚙️ DevOps, Cloud & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux,vscode,postman" />
 </p>
 
 <p align="center">
@@ -117,7 +109,6 @@
 ### 🚀 📈 Overall Performance
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saisankarbommala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saisankarbommala&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F778BA&currStreakLabel=58A6FF"/>
 </p>
 
